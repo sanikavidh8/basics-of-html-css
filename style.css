@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'BioRhyme', serif;
+  src: url(BioRhyme-Regular.ttf);
+}
+
+
+body{
+margin-left:auto;
+margin-right:auto;
+max-width:480px;
+/* background-color: salmon; */
+margin-top: 50px;
+/* text-align: center; */
+}
+
+
+h1{
+  font-family: 'BioRhyme Expanded', serif;
+  padding:10px;
+  background-color: #fff111;
+/* font-size:32px; */
+}
+
+h2{
+  font-family: 'BioRhyme', serif;
+/* font-size:24px; */
+}
+
+iframe{
+width:480px;
+height:375px;
+}
